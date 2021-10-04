@@ -1,0 +1,33 @@
+{
+  "name": "@xcor/sample3",
+  "version": "1.0.0",
+  "description": "sample package",
+  "homepage": "https://github.com/xcor-io/sample3",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo test",
+    "lint": "echo lint"
+  },
+  "keywords": [
+    "sample",
+    "package"
+  ],
+  "author": "Joel Chen",
+  "license": "Apache-2.0",
+  "devDependencies": {},
+  "dependencies": {},
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xcor-io/sample3"
+  },
+  "engines": {
+    "node": ">= 10"
+  }
+}
